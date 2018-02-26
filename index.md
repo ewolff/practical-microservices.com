@@ -26,7 +26,7 @@ Zipkin. The book thus offers a good start implementing microservices.
 The book is a translation into English. The German version is
 [Microservices Praxisbuch](http://microservices-praxisbuch.de).
 
-## Autor
+## Author
 
 Eberhard Wolff has 15+ years of experience as architect and
 consultant - often at the intersection of business and technology. He
