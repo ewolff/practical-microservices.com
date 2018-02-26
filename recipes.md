@@ -10,7 +10,12 @@ Microservices Recipes
 This brochure includes technology recipes for the implementation of
 microservices. The code for the examples can be downloaded for free.
 
-<img src="images/recipes.jpg" width="50%" /> 
+<img src="images/recipes.jpg" width="50%" />
+
+## German Version
+
+The book is a translation into English. The German version is
+[Microservices Rezepte](http://microservices-praxisbuch.de/rezepte.html).
 
 ## Content
 
