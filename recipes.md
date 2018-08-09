@@ -12,11 +12,6 @@ microservices. The code for the examples can be downloaded for free.
 
 <img src="images/recipes.jpg" width="50%" />
 
-## German Version
-
-The book is a translation into English. The German version is
-[Microservices Rezepte](http://microservices-praxisbuch.de/rezepte.html).
-
 ## Content
 
 
@@ -73,3 +68,8 @@ If you prefer paper, there is also a printed version:
 * [Amazon ES](http://amzn.to/2sTPKBh)
 * [Amazon FR](http://amzn.to/2FwyCUP)
 * [Amazon IT](http://amzn.to/2F6acDL)
+
+## German Version
+
+The book is a translation into English. The German version is
+[Microservices Rezepte](http://microservices-praxisbuch.de/rezepte.html).
