@@ -9,7 +9,7 @@ Buy & Other Books
 
 ## eBook
 
-You can buy the book at [Leanpub](https://leanpub.com/practical-microservices/overview).
+You can buy the book at [Leanpub](https://leanpub.com/practical-microservices/).
 It is a DRM-free eBook and you get it as PDF, mobi for Kindle, and
 ePub.
 
