@@ -26,6 +26,14 @@ Zipkin. The book thus offers a good start implementing microservices.
 The book is a translation into English. The German version is
 [Microservices Praxisbuch](http://microservices-praxisbuch.de).
 
+## 2nd Edition
+
+The second edition is based on the feedback about the first
+edition. All chapters have been clarified, updated and extended. A new
+chapter discusses services meshes, in particular Istio with an example
+application. The second edition has about 35 pages more than the first
+edition.
+
 ## Author
 
 Eberhard Wolff has 15+ years of experience as architect and
