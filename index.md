@@ -38,7 +38,7 @@ edition.
 
 Eberhard Wolff has 15+ years of experience as architect and
 consultant - often at the intersection of business and technology. He
-is a Fellow at innoQ in Germany. He has given talks at international
+is a Fellow at INNOQ in Germany. He has given talks at international
 conferences and written more than 100 articles and books e.g. about
 Microservices and Continuous Delivery. His technological focus is on
 modern architectures - involving Cloud, Continuous Delivery, DevOps,
