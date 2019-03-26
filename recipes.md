@@ -69,6 +69,12 @@ If you prefer paper, there is also a printed version:
 * [Amazon FR](http://amzn.to/2FwyCUP)
 * [Amazon IT](http://amzn.to/2F6acDL)
 
+## Source
+
+The Recipes are licensed under a Creative Commons Attribution 4.0
+license. The source is available at
+[GitHub](https://github.com/ewolff/microservices-recipes).
+
 ## German Version
 
 The book is a translation into English. The German version is
