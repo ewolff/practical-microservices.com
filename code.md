@@ -111,12 +111,12 @@ Consul example mentioned above.
 
 ## Service Mesh with Istio (Chapter 23)
 
-[Istio](https://github.com/ewolff/microservice-istio) extends the Atom
-example above to use the Istio service mesh. This supports monitoring
-with Prometheus and Grafana, tracing with Jaeger, Logging with
-Elasticsearch and Kibana, and also resilience with retries, timeouts
-and circuit breaker. [How to
-run](https://github.com/ewolff/microservice-atom/blob/master/HOW-TO-RUN.md)
+The [Istio example](https://github.com/ewolff/microservice-istio)
+extends the Atom example above to use the Istio service mesh. This
+supports monitoring with Prometheus and Grafana, tracing with Jaeger,
+Logging with Elasticsearch and Kibana, and also resilience with
+retries, timeouts and circuit breaker. [How to
+run](https://github.com/ewolff/microservice-istio/blob/master/HOW-TO-RUN.md)
 explains how to run the example and install Istio on Kubernetes.
 
 
