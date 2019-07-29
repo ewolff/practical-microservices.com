@@ -39,9 +39,6 @@ You can also get it printed:
 [Manning](https://www.manning.com/books/microservices-a-practical-guide-second-edition)
 also published the printed book.
 
-
-## 
-
 ## Other Books
 
 There are also other books by Eberhard Wolff:
