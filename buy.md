@@ -22,6 +22,9 @@ You can also get it at Amazon for the Kindle:
 * [Amazon FR](https://amzn.to/2vBewXV)
 * [Amazon IT](https://amzn.to/2HHflTT)
 
+[Manning](https://www.manning.com/books/microservices-a-practical-guide-second-edition)
+also published the eBook.
+
 ## Print
 
 You can also get it printed:
@@ -32,6 +35,12 @@ You can also get it printed:
 * [Amazon ES](https://amzn.to/2F87WYp)
 * [Amazon FR](https://amzn.to/2F7N6bC)
 * [Amazon IT](https://amzn.to/2HlxZxo)
+
+[Manning](https://www.manning.com/books/microservices-a-practical-guide-second-edition)
+also published the printed book.
+
+
+## 
 
 ## Other Books
 
