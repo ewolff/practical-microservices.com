@@ -26,6 +26,12 @@ Zipkin. The book thus offers a good start implementing microservices.
 The book is a translation into English. The German version is
 [Microservices Praxisbuch](http://microservices-praxisbuch.de).
 
+## Korean Version
+
+The [Korean
+translation](http://acornpub.co.kr/book/microservices-guide-2e) is
+available from Acorn Publishing.
+
 ## 2nd Edition
 
 The second edition is based on the feedback about the first

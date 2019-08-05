@@ -39,6 +39,17 @@ You can also get it printed:
 [Manning](https://www.manning.com/books/microservices-a-practical-guide-second-edition)
 also published the printed book.
 
+## German Translation
+
+The German translation is [Microservices
+Praxisbuch](https://microservices-praxisbuch.de).
+
+## Korean Translation
+
+The [Korean
+translation](http://acornpub.co.kr/book/microservices-guide-2e) is
+available from Acorn Publishing.
+
 ## Other Books
 
 There are also other books by Eberhard Wolff:
