@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Microservices - A Pratical Guide"
-description: "Microservices - A Pratical Guide by Eberhard Wolff"
+title: "Microservices - A Practical Guide"
+description: "Microservices - A Practical Guide by Eberhard Wolff"
 ---
 
 Microservices
