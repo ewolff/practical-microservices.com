@@ -8,4 +8,4 @@ Microservices - A Pratical Guide - Links
 ---
 
 * [ewolff.com](http://ewolff.com) is Eberhard Wolff's homepage
-* [INNOQ](http://innoq.com) is the employer of the author
+* [SWAGLab](https://swaglab.rocks) is the employer of the author
